@@ -13,9 +13,9 @@ class mr(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├🤖 My Name is : {ReyadXShipu}
+├🤖 My Name is : {}
 ├👑 CHANNEL : <a href=https://t.me/teamrxs>TEAM RXS</a> 
-├📕 LIBRARY : <a href=https://github.com/pyrogram>Pyrogram</a>
+├🚀 OWNER : <a href=https://github.com/BINOD-XD>Team RXS</a>
 ├✏️ LANGUAGE : <a href=https://www.python.org>Python 3</a>
 ├💾 DATABASE : <a href=https://cloud.mongodb.com>MongoDB</a>
 ├🌀 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://www.oracle.com/cloud/>Render</a>
